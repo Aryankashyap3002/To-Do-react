@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # To-Do-react
 # todo-list
 # todo-list-react.js
+# simple-todo-list-react.js
